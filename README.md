@@ -97,7 +97,7 @@ numbers by running `python model/prepare_data.py` then
 ## Live Links
 
 - **GitHub Repository:** `https://github.com/pcbindian2207/2025AC05584_ML_Assignment_2`
-- **Live Streamlit App:** `<TODO>`
+- **Live Streamlit App:** `https://2025ac05584mlassignment2-xysgzhwgmvzfinmeymhcuc.streamlit.app/`
 
 ## How to Run Locally
 
