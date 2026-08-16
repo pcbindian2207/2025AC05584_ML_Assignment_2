@@ -40,7 +40,7 @@ rows) used for evaluation and for the Streamlit app.
 
 ## c. GitHub Repository Link
 
-`<TODO: paste your GitHub repository URL here after pushing>`
+`https://github.com/pcbindian2207/2025AC05584_ML_Assignment_2`
 
 The repository contains:
 - `app.py` — Streamlit application
@@ -96,7 +96,7 @@ numbers by running `python model/prepare_data.py` then
 
 ## Live Links
 
-- **GitHub Repository:** `<TODO>`
+- **GitHub Repository:** `https://github.com/pcbindian2207/2025AC05584_ML_Assignment_2`
 - **Live Streamlit App:** `<TODO>`
 
 ## How to Run Locally
